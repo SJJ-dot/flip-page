@@ -1,0 +1,3 @@
+include ':flip-page'
+include ':app'
+rootProject.name = "flip-page"
